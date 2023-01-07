@@ -37,9 +37,7 @@ const Dashboard = () => {
           </Helmet>
           {!!account ? (
             <Container maxWidth="lg">
-              <Typography color="textPrimary" align="center" variant="h3" gutterBottom>
-                Dashboard
-              </Typography>
+           
               <SummaryCard/>
               <InvestmentCard/>
               <BombFarmCard />
