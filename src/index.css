@@ -389,6 +389,7 @@ code {
   display: grid;
   grid-template-columns: 0.6fr 0.4fr;
   padding:1rem 5rem;
+  gap: 20px;
 }
 
 
