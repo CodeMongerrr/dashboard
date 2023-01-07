@@ -396,6 +396,7 @@ code {
   flex: 1;
   align-items:center ;
   text-align: center;
+ 
 }
 .textBig{
   font-size:2rem;
@@ -465,7 +466,7 @@ button{
   background-color: rgba(0, 0, 0, 0.4);
   color:white;
   border: solid white 0.5px;
-  border-radius: 50px;
+  
 }
 
 #board-button{
