@@ -49,8 +49,8 @@ const InvestmentCard = () => {
         </a>
         <button style={{background:"#21ebda"}}><a style = {{textDecoration:"none",color:'white'}} href="/">Invest Now</a></button>
         <div className="horizontal-flex">
-          <button><a style = {{textDecoration:"none",color:'white'}} target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/94Aa4wSz3e">Join on Discord</a></button>
-          <button><a style = {{textDecoration:"none",color:'white'}} target="_blank" rel="noopener noreferrer" href="https://docs.bomb.money/welcome-start-here/readme">READ DOCS</a></button>
+          <button><a style = {{textDecoration:"none",color:'white'}} target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/94Aa4wSz3e">Chat on Discord</a></button>
+          <button><a style = {{textDecoration:"none",color:'white'}} target="_blank" rel="noopener noreferrer" href="https://docs.bomb.money/welcome-start-here/readme">Read Docs</a></button>
         </div>
         <div className="boardroom-card vertical-flex">
           <div className="horizontal-flex" style={{borderBottom:"1px solid white",justifyContent:"space-between",alignItems:"flex-end"}}>
