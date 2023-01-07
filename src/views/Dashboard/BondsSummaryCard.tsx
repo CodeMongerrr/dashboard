@@ -61,7 +61,7 @@ const BondsSummaryCard = () => {
             <div>
               <div className="spaceBtwHorizontal">
                 <div className="vertical-flex">
-                  <b>Purchase Bond</b>
+                  <b>Purchase BBond</b>
                   {!isBondPurchasable
                     ? 'BOMB is over peg'
                     : getDisplayBalance(bondsPurchasable, 18, 4) + ' BBOND available for purchase'}
@@ -86,7 +86,7 @@ const BondsSummaryCard = () => {
               <hr />
               <div className="spaceBtwHorizontal">
                 <div className="vertical-flex">
-                  <b>Redeem Bond</b>
+                  <b>Redeem Bomb</b>
                 </div>
                 <PurchaseBondCard
                   action="Redeem"
