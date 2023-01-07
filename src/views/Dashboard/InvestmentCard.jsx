@@ -123,7 +123,7 @@ const InvestmentCard = () => {
       </div>
 
       <div className="news-card">
-        <h3>Latest News</h3>
+        Latest News
       </div>
     </div>
   );
